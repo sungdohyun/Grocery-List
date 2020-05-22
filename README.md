@@ -12,4 +12,3 @@
 		Chicken Thighs
 	</body>
 	</html>
-	
